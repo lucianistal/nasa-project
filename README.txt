@@ -1,4 +1,4 @@
-Instrucciones rápidas para Rubén:
+Instrucciones rápidas:
 
 1) Instalar dependencias (PowerShell):
 
@@ -17,4 +17,5 @@ python -m pip install -r requirements.txt
 
 ```powershell
 python -c "from anomaly.train_eval import evaluate_methods; evaluate_methods('.', 'FD001')"
+
 ```
